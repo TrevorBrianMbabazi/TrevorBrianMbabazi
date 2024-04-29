@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Trevor!
 <!-- //👩🏻‍💻 Actuarial Analyst sharing about my journey and learnings in Actuarial Science, Data Science and Insurance<br/> 
-// 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 // 💭 Currently working as an Actuarial Associate, Sanlam Life Uganda(https://www.sanlam.co.za/uganda/personal/Pages/life-insurance.aspx)!<br/>
 -->
 👩🏻‍🎓 Studied Actuarial Science at Makerere University Kampala, Uganda.<br/>
